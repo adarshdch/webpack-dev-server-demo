@@ -1,6 +1,8 @@
 var path = require("path");
 module.exports = {
-  entry: ['./src/main.js'],
+  entry: {
+    app: ['./src/main.js']
+  },
   output: {
     path: path.resolve(__dirname, "public"),
     publicPath: "",

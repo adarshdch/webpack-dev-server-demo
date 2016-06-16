@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack",
-    "start": "webpack-dev-server --hot --port 3000 --content-base public",
+    "start": "webpack-dev-server --inline --hot --port 3000 --content-base public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
