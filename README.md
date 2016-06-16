@@ -3,5 +3,5 @@ How to use demo for webpack-dev-server
 
 
 **References:**
-*
-https://webpack.github.io/docs/webpack-dev-server.html*
+
+https://webpack.github.io/docs/webpack-dev-server.html
